@@ -1,7 +1,9 @@
 function AboutPage() {
     return (
-        <div>
-            <h1>About Page</h1>
+        <div style={{ padding: "30px" }}>
+            <h1>Giới thiệu</h1>
+
+            <p>Đây là ứng dụng React quản lý phim.</p>
         </div>
     );
 }
